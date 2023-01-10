@@ -9,4 +9,4 @@ question_bank = [
     ("Michael realizes that Dwight doesn't want to be disturbed in his hotel room when he sees this tied to the door knob.", "Dwight's sock"),
 ]
 
-print(question_bank[0][0])
+print(f"Question: {question_bank[0][0]})
