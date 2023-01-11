@@ -7,6 +7,8 @@ question_bank = [
     ("Which office worker gets their company bathrobe taken away?", "Toby"),
     ("Ryan's assistant tells him he has a call from Eddie Murphy but it's Michael doing an impression of what movie character?", "Donkey, from Shrek"),
     ("Michael realizes that Dwight doesn't want to be disturbed in his hotel room when he sees this tied to the door knob.", "Dwight's sock"),
+    ("Pam and Jim play a prank on Andy that results in A?nyd punching a hole through a wall. What was the prank?", "Jim put Andy's cell phone in the ceiling."),
+    ("They're really going to the hospital but instead, Jim tells Dwight they're going to this restaurant/entertainment place.", "Chuck E. Cheese"),
 ]
 
 print(f"Question: {question_bank[0][0]}")
