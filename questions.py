@@ -14,7 +14,9 @@ question_bank = [
     ("Michael's gossip about Dwight concerns store-bought varieties of this. What is it?", "manure"),
     ("What gift did Stanley buy for Pam and Jim's wedding?", "a toaster"),
     ("Andy tells Angela that one day they'll move here and ''leave this all behind.'' Where do he and Angela want to go?", "Disney's Celebration Village"),
-    ("Michael says that this green toy has a better body than Jim.", "Gumby")
+    ("Michael says that this green toy has a better body than Jim.", "Gumby"),
+    ("Martin, the ex-con from Stamford, was in jail for this.","Insider Trading"),
+    ("Andy wants Pam and Jim to hire his acappella group for the wedding. After playing his demo tape, what song does Andy say Pam will boogie down the aisle to?", "You Can Call Me Al"),
 ]
 
 print(f"Question: {question_bank[0][0]}")
