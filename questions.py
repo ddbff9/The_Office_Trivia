@@ -17,6 +17,8 @@ question_bank = [
     ("Michael says that this green toy has a better body than Jim.", "Gumby"),
     ("Martin, the ex-con from Stamford, was in jail for this.","Insider Trading"),
     ("Andy wants Pam and Jim to hire his acappella group for the wedding. After playing his demo tape, what song does Andy say Pam will boogie down the aisle to?", "You Can Call Me Al"),
+    ("Dwitght: ''A thirty-year mortgage at Michael's age essentially means he's buying'' what?", "a coffin"),
+    ("During the break at the shareholders' meeting, Michael says he'll get help from a Mexican guy who knows as much about math as he does about what?", "bullfighting"),
 ]
 
 print(f"Question: {question_bank[0][0]}")
