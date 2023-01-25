@@ -19,6 +19,8 @@ question_bank = [
     ("Andy wants Pam and Jim to hire his acappella group for the wedding. After playing his demo tape, what song does Andy say Pam will boogie down the aisle to?", "You Can Call Me Al"),
     ("Dwitght: ''A thirty-year mortgage at Michael's age essentially means he's buying'' what?", "a coffin"),
     ("During the break at the shareholders' meeting, Michael says he'll get help from a Mexican guy who knows as much about math as he does about what?", "bullfighting"),
+    ("Who said it? ''Oh, Jim Carrey just walked in. Dwight, get his autograph for Michael quickly.", "Phyllis"),
+    ("While playing chess, who tells Jim they want to set him up with their daughter?", "Creed")
 ]
 
 print(f"Question: {question_bank[0][0]}")
