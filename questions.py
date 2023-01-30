@@ -20,7 +20,11 @@ question_bank = [
     ("Dwitght: ''A thirty-year mortgage at Michael's age essentially means he's buying'' what?", "a coffin"),
     ("During the break at the shareholders' meeting, Michael says he'll get help from a Mexican guy who knows as much about math as he does about what?", "bullfighting"),
     ("Who said it? ''Oh, Jim Carrey just walked in. Dwight, get his autograph for Michael quickly.", "Phyllis"),
-    ("While playing chess, who tells Jim they want to set him up with their daughter?", "Creed")
+    ("While playing chess, who tells Jim they want to set him up with their daughter?", "Creed"),
+    ("What did Ryan remind Creed to organize when the office did spring cleaning in January?", "The menu book."),
+    ("In Dwight's perfect crime scenario, he breaks into this jewelery store and steals its chandelier.","Tiffany"),
+    ("Stanley takes a break from spring cleaning to get a drink from the vending machine. Michael ends up making the selection for him, though, choosing something he says Stanley's going to hate. What is it?", "Peach iced tea"),
+    
 ]
 
 print(f"Question: {question_bank[0][0]}")
