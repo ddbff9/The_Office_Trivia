@@ -61,6 +61,15 @@ question_bank = [
     ("Michael starts the Dundies with Phyllis's award. What does he say it is?",
      "the Busiest Beaver Award"),
     ("When Michael takes the office women to the mall, he tells them he threw a coin into the fountain for each of them. Whad did he wish for Kelly?", "a brain"),
+    ("Ryan says that Jim eats the same sandwich every day for lunch. What is it?", "ham and cheese"),
+    ("Who is Michaels boss at the diet pill company?","Nick Figaro"),
+    ("What's the name of the game show that Michael and Holly host at the company picnic?", "Slumdunder Mifflinaire"),
+    ("On her first day, waht thing in the office does Holly try to repair?", "her chair"),
+    ("Pam says that Angela's the kind of person who doesn't give candy to trick-or-treaters. Name one of the three things she says Angela would instead give out.", "toothbrushes, pennies, walnuts"),
+    ("While talking about Ryan's arrest for fraud, what physical feature does Oscar say was the real crime?", "Ryan's beard"),
+    ("When Michael takes the office women to the m all, he tells them he threw a coin into the fountain for each of them. What did he wish for Kelly?", "a brain"),
+    ("What is Ryan's job at the Dundies while Michael is emceeing?", "holding the cue cards"),
+    ("Kelly is upset that Dwight and Jim didn't come to her season finale party for what reality TV show?", "America's Got Talent")
 
 
 ]
